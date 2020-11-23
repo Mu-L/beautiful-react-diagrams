@@ -1,4 +1,4 @@
-import getCanvasDragLimits from '../dist/Diagram/DiagramCanvas/utils/getCanvasDragLimits';
+import getCanvasDragLimits from '../dist/components/Diagram/DiagramCanvas/utils/getCanvasDragLimits';
 
 describe('getCanvasDragLimits function', () => {
   it('should be a function', () => {

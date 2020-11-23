@@ -1,4 +1,4 @@
-import getDiagramCanvasCoords from '../dist/Diagram/DiagramCanvas/utils/getDiagramCanvasCoords';
+import getDiagramCanvasCoords from '../dist/components/Diagram/DiagramCanvas/utils/getDiagramCanvasCoords';
 
 describe('getDiagramCanvasCoords', () => {
   it('should be a function', () => {
